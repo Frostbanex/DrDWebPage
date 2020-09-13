@@ -6,6 +6,10 @@ Mientras intento aprender html, css y javascript, surgió la idea de hacer una p
 
 Página de drogas falsa con intención de aprender diseño web, eso es todo.
 
+## Captura de pantalla
+
+![Captura de pantalla](images/Screenshot.png)
+
 ## Visualizar vista previa
 
 Esta página web está enlazada a _Netlify_, por lo que gracias a esta plataforma, es posible visualizar el estado de la página en tiempo real.
