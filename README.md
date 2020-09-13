@@ -12,4 +12,4 @@ Página de drogas falsa con intención de aprender diseño web, eso es todo.
 
 Esta página web está enlazada a _Netlify_, por lo que gracias a esta plataforma, es posible visualizar el estado de la página en tiempo real.
 
-[Echarle un vistazo](https://drdrogas.netlify.app/) hollllalalllala
+[Echarle un vistazo](https://drdrogas.netlify.app/)
