@@ -31,7 +31,6 @@ var vendedores = ["Pepe", "Juan", "Cebollino", "Mari Ángeles"];
 
 for (var i = 0; i < 4; i++) {
 	elementoDroga[i].textContent = elementoDroga[i].textContent + " " + vendedores[i];
-	console.log("XD");
 }
 
 function tamVentana() {
